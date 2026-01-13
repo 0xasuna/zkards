@@ -1,4 +1,4 @@
-zkards is a 3D multiplayer Godot trade card game (TCG).
+## zkards is a 3D multiplayer trade card game (TCG).
 
 This repository holds everything needed to export and run a personal dedicated server for the game, and game clients. The code can be used as a base for your own card game.
 
